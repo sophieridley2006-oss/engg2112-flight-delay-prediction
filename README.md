@@ -10,4 +10,4 @@ Predicting flight delays at Chicago O'Hare Airport using machine learning and pr
 - Pre-departure features can identify high-risk flights
 - Delay duration requires real-time operational data
 
-**Authors:** Sophie Ridley, Amelia Daunt, Vittorio Leilani, Liselotte Thelosen
+**Authors:** Sophie Ridley, Amelia Daunt, Leilani Vittorio, Liselotte Thelosen
