@@ -15,3 +15,4 @@ Predicting flight delays at Chicago O'Hare Airport using machine learning and pr
 ## Repository Structure
 - data/ – datasets
 - notebooks/ – data cleaning, feature engineering, and modelling code
+- presentation/: presentation slides
