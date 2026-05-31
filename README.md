@@ -11,3 +11,7 @@ Predicting flight delays at Chicago O'Hare Airport using machine learning and pr
 - Delay duration requires real-time operational data
 
 **Authors:** Sophie Ridley, Amelia Daunt, Leilani Vittorio, Liselotte Thelosen
+
+## Repository Structure
+- data/ – datasets
+- notebooks/ – data cleaning, feature engineering, and modelling code
